@@ -1,4 +1,4 @@
-- ![image](https://user-images.githubusercontent.com/76806913/113497678-e0a16680-9523-11eb-925b-097656d9e866.png)
+- https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif
  Hi,
 -  I’m @GITHUB-Yash-Anand
 - 👀 I’m interested in coding , game devlopment , web devlopment , designing and exploring different feilds.
