@@ -1,5 +1,4 @@
-- https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif
- Hi,
+-  Hi,
 -  I’m @GITHUB-Yash-Anand
 - 👀 I’m interested in coding , game devlopment , web devlopment , designing and exploring different feilds.
 - 🌱 I’m currently learning C, Python.
