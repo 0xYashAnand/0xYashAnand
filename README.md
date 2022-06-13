@@ -17,7 +17,7 @@ def MyLife(){
 <h3 align="center">🎓 I’m an fresher currently pursuing my Bachelors in Computer Science & Engineering. </br></h3>
 
 
-<h3 align="left">Connect with me:</h3>
+<!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="http://www.linkedin.com/in/0xYashAnand" target="blank"><img align="center" src="img/linkedin.png" alt="0xYashAnand" height="40" width="40" /></a>
 <a href="https://twitter.com/0xYashAnand" target="blank"><img align="center" src="img/twitter.png" alt="0xYashAnand" height="40" width="40" /></a>
@@ -25,7 +25,7 @@ def MyLife(){
 <a href="https://leetcode.com/Yash0x/" target="blank"><img align="center" src="img/-your-coding-skills-and-quickly-.png" alt="Yash0x" height="40" width="40" /></a>
 <a href="https://codeforces.com/profile/Yash0x" target="blank"><img align="center" src="img/codeforces.-programming-.png" alt="Yash0x" height="40" width="40" /></a>
 <a href="https://www.codechef.com/users/Yash0x" target="blank"><img align="center" src="img/icons8-codechef-240.png" alt="Yash0x" height="40" width="40" /></a>
-<br/>
+<br/> -->
   - 📫 How to reach me **yashanand598@gmail.com**
 
 
