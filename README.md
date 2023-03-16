@@ -14,7 +14,7 @@ def MyLife(){
 
 ````
 <h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Yash Anand</h1>
-<h3 align="center">🎓 I’m an fresher currently pursuing my Bachelors in Computer Science & Engineering. </br></h3>
+<h3 align="center">🎓 I’m a fresher currently pursuing my Bachelors in Computer Science & Engineering. </br></h3>
 
 
 <h3 align="left">Connect with me:</h3>
