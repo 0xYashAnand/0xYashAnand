@@ -20,9 +20,9 @@ def MyLife(){
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="http://www.linkedin.com/in/0xYashAnand" target="blank"><img align="center" src="img/linkedin.png" alt="0xYashAnand" height="40" width="40" /></a>
-<a href="https://twitter.com/0xYd" target="blank"><img align="center" src="img/twitter.png" alt="" height="40" width="40" /></a>
+<a href="https://twitter.com/0xYashAnand" target="blank"><img align="center" src="img/twitter.png" alt="" height="40" width="40" /></a>
 <a href="https://instagram.com/0xYashAnand" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="0xYashAnand" height="40" width="40" /></a>
-<a href="https://leetcode.com/0xYd/" target="blank"><img align="center" src="img/-your-coding-skills-and-quickly-.png" alt="0xYd" height="40" width="40" /></a>
+<a href="https://leetcode.com/Yash0x/" target="blank"><img align="center" src="img/-your-coding-skills-and-quickly-.png" alt="0xYd" height="40" width="40" /></a>
 <a href="https://codeforces.com/profile/Yash0x" target="blank"><img align="center" src="img/codeforces.-programming-.png" alt="Yash0x" height="40" width="40" /></a>
 <a href="https://www.codechef.com/users/Yash0x" target="blank"><img align="center" src="img/icons8-codechef-240.png" alt="Yash0x" height="40" width="40" /></a>
 <br/>
