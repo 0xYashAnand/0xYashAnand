@@ -44,7 +44,16 @@ def MyLife(){
 
 ![Yash's github stats](https://github-readme-stats.vercel.app/api?username=0xYashAnand&show_icons=true&hide_border=true)
 <br/>
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=0xYashAnand.0xYashAnand)
+
+
+<!--profile visit count-->
+<div align="center">
+    
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=0xYashAnand.0xYashAnand&style=for-the-badge)  
+
+<!-- ![](https://komarev.com/ghpvc/?username=0xYashAnand&style=for-the-badge) 
+
+</div>
 
 <!---
 0xYashAnand/0xYashAnand is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
