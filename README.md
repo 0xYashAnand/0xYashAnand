@@ -14,6 +14,7 @@ def MyLife(){
 
 ````
 
+
 <h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Yash Anand</h1>
 <h3 align="center">🎓 I’m a final year student, currently pursuing my Bachelors in Computer Science & Engineering. </br></h3>
 <h3 align="center">Connect with me:</h3>
@@ -39,8 +40,12 @@ def MyLife(){
 - Technologies: Web Development, UI/UX Designing. </br>
 
 <div align="center">
-    
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=0xYashAnand&show_icons=true&locale=en&layout=compact" alt="0xYashAnand" /></p>
+
+
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=0xYashAnand&layout=compact&langs_count=8&card_width=320" />
+</a>
+<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=0xYashAnand&show_icons=true&locale=en&layout=compact" alt="0xYashAnand" /></p> -->
 
 <br/>
 
