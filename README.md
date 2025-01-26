@@ -49,7 +49,7 @@ Connect with me
 
 - 📫 How to reach me **yashanand598@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Ec1yAANg9-HNnTTU_S06MUrLHGnzZsYy/view?usp=sharing](https://drive.google.com/file/d/1Ec1yAANg9-HNnTTU_S06MUrLHGnzZsYy/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1OeAIN7nzguIWttYfnW_NP2txF4Gi1gJA/view?usp=sharing)
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
